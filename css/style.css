@@ -2,84 +2,46 @@
 @import url(https://fonts.googleapis.com/css?family=Trirong);
 
 body {
-    font-family: "Trirong", serif;
-    background-image: url('https://wallpaper.dog/large/17278498.jpg');
+  background-image: url('https://img.freepik.com/premium-vector/realistic-style-colorful-clouds-background_23-2148964527.jpg?w=2000');
 }
 
 
 h1 {
-    text-align: center;
-    font-style:italic;
+  text-align: center;
+  font-style:italic;
    
 }
 
 .container {
-    position: relative;
-    text-align: center;
-    color: black;
-  }
+  position: relative;
+  text-align: center;
+  color: black;
+}
   
-  .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
-  .card-body{
-    background-color: greenyellow;
-   
-  }
+.card-body{
+  background-color: rebeccapurple;
+}
 
 
-  .col-md-6{
-    background-color: black;
-  }
+.col-md-6{
+  background-color: black;
+}
   
-  .tab-pane{
-    background-color: black;
-  }
+.tab-pane{
+  background-color: black;
+}
 
-  .nav{
-    background-color: black;
-  }
+.nav{
+  background-color: black;
+}
 
-  * {
-    box-sizing: border-box;
-  }
-  
-  /* Style the search field */
-  form.example input[type=text] {
-    padding: 10px;
-    font-size: 17px;
-    border: 1px solid grey;
-    float: left;
-    width: 80%;
-    background: #f1f1f1;
-  }
-  
-  /* Style the submit button */
-  form.example button {
-    float: left;
-    width: 20%;
-    padding: 10px;
-    background: #2196F3;
-    color: white;
-    font-size: 17px;
-    border: 1px solid grey;
-    border-right: none; /* Prevent double borders */
-    cursor: pointer;
-  }
-  
-  form.example button:hover {
-    background: #0b7dda;
-  }
-  
-  /* Clear floats */
-  form.example::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
-
-  
+* {
+  box-sizing: border-box;
+}

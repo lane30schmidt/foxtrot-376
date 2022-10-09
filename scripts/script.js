@@ -14,14 +14,16 @@ $(document).ready(function() {
 });
 
 const devProfile = {
-    "Name": ["Kevin Salgado"],
-    "pic": "https://wallpaperaccess.com/full/2948867.jpg",
-    "Title": "Student at the University of North Alabama, Help Desk Analyst at Hexagon Safety & Infrastructure",
-    "Github": ["Kbrian5: https://github.com/KBrian5"],
+    "Name": ["Lane Schmidt"],
+    "pic": "https://www.novafm.com.au/wp-content/uploads/2016/05/screen_shot_2016-05-27_at_2.06.50_pm.png",
+    "Title": "Senior at the University of North Alabama",
+    "Github": ["@lane30schmidt: https://github.com/lane30schmidt"],
+    "Instagram": "@lane32schmidt: https://www.instagram.com/lane32schmidt/",
+    "Facebook" : "Lane Schmidt: https://www.facebook.com/lane.schmidt.71",
     "Background Info": "University of North Alabama: Bachelor of Business Administration with a Major in Computer Inforamtion Systems ",
-    "Hobbies": "Soccer, Basketball, Working Out, and Hiking",
-    "Music": "Pop, Hip-Hop, and Regional",
-    "Skills": "Html5, CSS, JQuery, JavaScript, Python, MySQL, Java"
+    "Hobbies": "Video Games - Weight Lifting - Hockey",
+    "Music": "Rap - Hip-Hop",
+    "Skills": "Python, Java, MySQL, HTML, CSS, JavaScript"
 };
 
 
